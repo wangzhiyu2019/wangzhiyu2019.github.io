@@ -1,5 +1,5 @@
-# Private Policy
-#This privacy policy sets out how we uses and protects any information that you give us when you use this website and mobile applications.
+#                                                          Private Policy
+This privacy policy sets out how we uses and protects any information that you give us when you use this website and mobile applications.
 
 We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website or applications developed by us, then you can be assured that it will only be used in accordance with this privacy statement.
 
