@@ -119,14 +119,6 @@ By using our games and applications, you agree to the terms of this policy. If y
 
 
 
-contact us
-
-If you have any questions about this privacy policy, you can contact us in the following ways.
-
-E-mail: wangxialiang2018@gmail.com
-
-
-
 Here are links to our partners' Privacy Policy:
 
 https://policies.google.com/privacy
@@ -141,4 +133,4 @@ https://www.startapp.com/policy/publisher-terms/
 
 
 
-The document was last updated on Sep 29, 2018
+The document was last updated on Mar 2, 2020
